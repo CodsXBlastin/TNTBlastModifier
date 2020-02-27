@@ -1,0 +1,7 @@
+name: TNTBlastModifier
+main: THXC\TNTBlastModifier\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+author: THXC
+description: Modifies TNT Blast(Self Explanatory Stuff Here).
